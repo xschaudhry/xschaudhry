@@ -6,6 +6,10 @@ Auto shops, HVAC, plumbing and contracting crews lose jobs when quotes go out la
 
 ---
 
+**[▶ Try all the demos on one page](https://xschaudhry.github.io/)**
+
+---
+
 ## 🛠️ What I build
 
 | Agent | What it does for you |
@@ -20,13 +24,14 @@ Auto shops, HVAC, plumbing and contracting crews lose jobs when quotes go out la
 
 ### 🔧 [quote-agent-demo](https://github.com/xschaudhry/quote-agent-demo)
 A working auto-repair quoting agent. You describe the problem, it asks follow-up questions, and it builds an itemized quote.
-*Runs on simulated demo data only, with no real customer information.*
+[▶ Live demo](https://xschaudhry.github.io/quote-agent-demo/) · *Runs on simulated demo data only, with no real customer information.*
 
 ### 📊 [calibration-kit](https://github.com/xschaudhry/calibration-kit)
 A script that checks AI quotes against your manual quotes and **flags anything more than 5% off**. It lets you see that the agent prices jobs the way you do before it talks to a customer.
 
 ### 🧩 [command-center-template](https://github.com/xschaudhry/command-center-template)
 A white-label dashboard for running your agents. It has one-click quick actions and remembers past conversations, so every customer picks up where they left off.
+[▶ Live demo](https://xschaudhry.github.io/command-center-template/)
 
 ---
 
@@ -41,6 +46,6 @@ How I work: I start from your real quotes, check accuracy with the calibration k
 
 ## 📬 Get in touch
 
-📧 [usman@trxmode.com](mailto:usman@trxmode.com) · 🌐 [Live demos](https://claude.ai/artifact/KXCEwm1pHcwsdnqNokJr3L) · 💼 [LinkedIn](https://www.linkedin.com/in/chaudhryusmantrx/) · 📱 +1 (315) 306-6766 · WhatsApp +92 323 1111411
+📧 [usman@trxmode.com](mailto:usman@trxmode.com) · 🌐 [Live demos](https://xschaudhry.github.io/) · 💼 [LinkedIn](https://www.linkedin.com/in/chaudhryusmantrx/) · 📱 +1 (315) 306-6766 · WhatsApp +92 323 1111411
 
 *Have a shop and a backlog of unanswered quotes? Send me a message. I'm happy to talk through whether an agent would actually help.*
